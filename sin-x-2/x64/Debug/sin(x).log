@@ -1,0 +1,4 @@
+﻿  sin(x).cpp
+C:\Users\86188\source\repos\sin(x)\sin(x)\sin(x).cpp(7,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86188\source\repos\sin(x)\sin(x)\sin(x).cpp(18,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  sin(x).vcxproj -> C:\Users\86188\source\repos\sin(x)\x64\Debug\sin(x).exe
